@@ -27,16 +27,3 @@ body {
   display: block;
   width: 100%;
 }
-
-figure {
-  margin: 0;
-}
-
-figcaption {
-  padding: .5em;
-}
-
-h2 {
-  font-weight: normal;
-  font-size: 1em;
-}
